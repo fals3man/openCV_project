@@ -1,2 +1,2 @@
-# openCV_project
+# openCV Rroject
 few projects in openCV 
