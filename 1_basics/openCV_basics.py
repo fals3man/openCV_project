@@ -2,7 +2,9 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-input=cv2.imread(r"C:\Users\sraka\Downloads\mrrobot.jpg")
+input=cv2.imread(r"...\...\...\image.jpg")
+
+#comment our the required parts
 
 
 #GRAYSCALE
