@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 input=cv2.imread(r"...\...\...\image.jpg")
-
+# reads the image from specified path
 #comment our the required parts
 
 
