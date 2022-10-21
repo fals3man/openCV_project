@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 input=cv2.imread(r"...\...\...\image.jpg")
 # reads the image from specified path
 #comment our the required parts
-
+#trial code
 
 #GRAYSCALE
 # gray_image=cv2.cvtColor(input,cv2.COLOR_BGR2GRAY)
